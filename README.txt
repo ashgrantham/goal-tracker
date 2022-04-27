@@ -1,0 +1,2 @@
+Changelog 1.0:
+You will need to go into the code itself and adjust the image locations to your computer as they are currently set to mine. This should be addressed in the next version, though. Any feedback would be appreciated and can be send to ashgrantham2006@gmail.com. Thanks
